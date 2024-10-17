@@ -17,6 +17,10 @@ public class Main {
                 int num6 = scanner.nextInt();
                 int mul = num5 * num6;
                 System.out.println(mul);
-
+        //Деление
+        int num7 = scanner.nextInt();
+                int num8 = scanner.nextInt();
+                int div = num7 / num8;
+                System.out.println(div);
     }
 }
