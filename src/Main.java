@@ -12,6 +12,11 @@ public class Main {
                 int num4 = scanner.nextInt();
                 int sub = num3 - num4;
                 System.out.println(sub);
+        //Умножение
+                int num5 = scanner.nextInt();
+                int num6 = scanner.nextInt();
+                int mul = num5 * num6;
+                System.out.println(mul);
 
     }
 }
