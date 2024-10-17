@@ -6,5 +6,12 @@ public class Main {
                 int num1 = scanner.nextInt();
                 int num2 = scanner.nextInt();
                 int sum = num1 + num2;
+                System.out.println(sum);
+        //Вычитание
+                int num3 = scanner.nextInt();
+                int num4 = scanner.nextInt();
+                int sub = num3 - num4;
+                System.out.println(sub);
+
     }
 }
